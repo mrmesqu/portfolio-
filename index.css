@@ -11,6 +11,8 @@ align-items: center;
 padding: 16px;
 }
 a{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     color: white;
     text-decoration: none;
 }
